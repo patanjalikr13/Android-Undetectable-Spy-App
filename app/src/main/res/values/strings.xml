@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Samsung Support</string>
+    <string name="accessibility_service_label">Samsung Support</string>
+    <string name="accessibility_service_description">Enable this to make samsung apps serve you properly.</string>
+</resources>
