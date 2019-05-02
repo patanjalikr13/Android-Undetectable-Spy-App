@@ -5,7 +5,7 @@ android {
     defaultConfig {
 
         multiDexEnabled true
-        applicationId "in.xamsure.patanjali.xamsure"
+        applicationId "in.spyapp.patanjali.android"
         minSdkVersion 19
         targetSdkVersion 28
         versionCode 1
